@@ -8,7 +8,7 @@ I am a coding enthusiast with a knack for database management. I enjoy tackling 
   2023-Present
 
 ## Certification
-- **[NoSQL and DBaaS 101](certification_link_1)**
+- **[NoSQL and DBaaS 101]([certification_link_1](https://courses.cognitiveclass.ai/certificates/6732d537bd5447728ce2a0dfc6ae5a7a))**
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](certification_link_2)**
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certification_link_3)**
 
