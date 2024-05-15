@@ -18,5 +18,5 @@ I am a coding enthusiast with a knack for database management. I enjoy tackling 
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact Me
-- **LinkedIn:** [Skylark Magsilang's LinkedIn](linkedin_profile_link)
+- **LinkedIn:** [Skylark Magsilang's LinkedIn](https://www.linkedin.com/in/magsilang-skylark-g-b3482a309/)
 - **Email:** skylarkmagsilangsl@gmail.com
